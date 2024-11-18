@@ -1,3 +1,5 @@
+//Program to find the area of the rectangle for a given height and breadth.(length × width)//
+
 #include <stdio.h> 
 
 int main() {
