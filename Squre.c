@@ -1,3 +1,4 @@
+// program to find area of the squre for given side area value//
 #include <stdio.h> 
 int main() {
     float side, area; // Declare variables for side length and area
