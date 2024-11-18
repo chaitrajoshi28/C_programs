@@ -1,3 +1,5 @@
+// Program to check and return true if the number is even.//
+
 #include <stdio.h>
 
 // Function to check if a number is even
