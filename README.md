@@ -5,3 +5,7 @@
 <li><a href="Sub.c"> program to Sub two numbers</li>
 <li><a href="Mul.c"> program to Mul two numbers</li>
 <li><a href="Div.c"> program to Divtwo numbers</li>
+<li><a href="Rectangle.c"> Program to find the area of the rectangle for a given height and breadth.(length × width)
+</li>
+<li><a href="Circle.c"> Program to find the area of the circle for a given radius.(πr2)</li>
+<li><a href="Squre.c">  Program to find the area of the square for a given side value.(a^2))</li>
