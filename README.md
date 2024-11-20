@@ -27,3 +27,25 @@
 <li><a href="check_pos_neg.c"> Program to check if the number is positive or negative</li>
 <li><a href="evenodd_conditional.c"> Program to check the number  is even or odd without using  if else(By using a conditional operator)
 </li>
+<li><a href="withdraw.c"> Program to implement withdrawal operation. (Using nested if-else)</li>
+<li><a href="while.c">  Program to print numbers from 1 to 10 using a while loop.</li>
+<li><a href="dowhile.c"> Program to print numbers from 1 to 10 using a do-while loop.</li>
+<li><a href="for.c"> Program to print numbers from 1 to 10 using a for loop.</li>
+<li><a href="user_given_whileloop.c"> Program to print numbers in a user-given range using a while loop.</li>
+<li><a href="user_dowhileloop.c"> Program to print numbers in a user-given range using a do-while loop.</li>
+<li><a href="user_for.c"> Program to print numbers in a user-given range using a for loop.</li>
+<li><a href="user_even.c"> Program to find the sum of the even numbers in a user-given range.</li>
+<li><a href="user_odd.c"> Program to print odd numbers in a user-given range.</li>
+<li><a href="sum_of_numbers.c"> Program to find the sum of the numbers in a user-given range.</li>
+<li><a href="primenum.c"> Program to check and return true if the given number is prime, else return false.</li>
+<li><a href="usergiven_prime.c"> Program to print primes in the user-given range.</li>
+<li><a href="randomnum.c"> Program to print a random number from a specific user-given range.
+</li>
+<li><a href="sumofprime.c"> Program  to find the sum of the primes in the user-given range.</li>
+<li><a href="primenumup.c"> Program to count and return the number of primes up to the user-given range.</li>
+<li><a href="armstrong_or_not.c"> Program to check and return true if the given number is an Armstrong number, else return false.</li>
+<li><a href="armstrong.c"> Program to print Armstrong numbers in the user-given range. </li>
+<li><a href="armstronguser_given.c"> Program to return the number of Armstrong numbers up to the user-given range.</li>
+<li><a href="fibonaccirange.c"> Program to print Fibonacci series terms in the user-given range. </li>
+<li><a href="prime_nearest.c"> Program to return the nearest prime number of the user-given number. </li> 
+ 
