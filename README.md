@@ -13,4 +13,4 @@
 </li>
 <li><a href="Swap.c"> Program to swap two numbers with the help of the third variable.</li>
 <li><a href="Typecasting.c"> Program to implement typecasting..</li>
-<li><a href="Swapping.c">  Program to swap two numbers without the third variable</li>
+<li><a href="swapping.c">  Program to swap two numbers without the third variable</li>
