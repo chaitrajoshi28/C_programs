@@ -22,3 +22,4 @@
 </li>
 <li><a href="even.c"> Program to check and return true if the number is even.</li>
 <li><a href="even2.c"> Program to check  the number is even or odd.</li>
+<li><a href="greastest.c"> Program to find the greatest among 2 numbers.</li>
