@@ -4,14 +4,15 @@
 #include <time.h>    // Include for time()
 
 int main() {
-    // Seed the random number generator
+    // Step 3: Seed the random number generator
     srand(time(NULL));
 
-    // Generate a 4-digit random number (from 1000 to 9999)
+    // Step 4: Generate a 4-digit random number (from 1000 to 9999)
     int randomNumber = rand() % 9000 + 1000;
 
-    // Print the generated random number
+    // Step 5: Display the generated 4-digit random number
     printf("Generated 4-digit random number: %d\n", randomNumber);
 
-    return 0; // Indicate that the program ended successfully
+    // Step 6: End the program
+    return 0;
 }
