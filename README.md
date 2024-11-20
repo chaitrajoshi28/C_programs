@@ -25,3 +25,5 @@
 <li><a href="greastest.c"> Program to find the greatest among 2 numbers.</li>
 <li><a href="Minimum.c">  program to find the minimum number among 2 numbers.</li>
 <li><a href="check_pos_neg.c"> Program to check if the number is positive or negative</li>
+<li><a href="evenodd_conditional.c"> Program to check the number  is even or odd without using  if else(By using a conditional operator)
+</li>
