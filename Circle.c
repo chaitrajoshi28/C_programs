@@ -1,5 +1,5 @@
 //Program to find the area of the circle for a given radius.(πr2)//
-// Program to find the area of the circle for a given radius (π * radius^2)
+
 
 #include <stdio.h>   
 
