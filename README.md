@@ -18,3 +18,5 @@
 </li>
 <li><a href="quadratic.c">  Program  to calculate roots of the quadratic equation.
 </li>
+<li><a href="mathfun.c"> Programs to solve and display results of given mathematical expressions using the Math module.
+</li>
