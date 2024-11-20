@@ -20,3 +20,5 @@
 </li>
 <li><a href="mathfun.c"> Programs to solve and display results of given mathematical expressions using the Math module.
 </li>
+<li><a href="even.c"> Program to check and return true if the number is even.</li>
+<li><a href="even2.c"> Program to check  the number is even or odd.</li>
