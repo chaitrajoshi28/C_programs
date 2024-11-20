@@ -9,3 +9,5 @@
 </li>
 <li><a href="Circle.c"> Program to find the area of the circle for a given radius.(πr2)</li>
 <li><a href="Squre.c">  Program to find the area of the square for a given side value.(a^2))</li>
+<li><a href="Triangle.c"> Program to find the area of the triangle for the given base and height.
+</li>
