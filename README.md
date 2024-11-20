@@ -12,3 +12,4 @@
 <li><a href="Triangle.c"> Program to find the area of the triangle for the given base and height.
 </li>
 <li><a href="Swap.c"> Program to swap two numbers with the help of the third variable.</li>
+<li><a href="Typecasting.c"> Program to implement typecasting..</li>
