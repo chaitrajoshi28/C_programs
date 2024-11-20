@@ -3,6 +3,24 @@
 #include <stdio.h>
 
 int main() {
+
+    /* 
+       Pseudocode:
+       1. Start the program.
+       2. Declare the variables for the numerator, denominator, and result.
+       3. Display a prompt asking the user to enter the numerator.
+       4. Read the numerator input from the user and store it in the variable `numerator`.
+       5. Display a prompt asking the user to enter the denominator.
+       6. Read the denominator input from the user and store it in the variable `denominator`.
+       7. Check if the denominator is zero:
+           a. If the denominator is zero, display an error message (Division by zero is not allowed).
+           b. If the denominator is not zero, perform the division.
+       8. Perform the division: Convert the numerator to float and divide it by the denominator, store the result in `result`.
+       9. Display the result with two decimal places.
+       10. End the program.
+    */
+
+    // Declare the variables for the numerator, denominator, and result
     int numerator, denominator;
     float result;
 
@@ -21,6 +39,7 @@ int main() {
         printf("Result: %.2f\n", result);
     }
 
-    return 0; // Return 0 indicates succesful execution
-}  
+    // Return 0 indicates successful execution
+    return 0;
+}
 
