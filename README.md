@@ -16,3 +16,5 @@
 <li><a href="swapping.c">  Program to swap two numbers without the third variable</li>
 <li><a href="Random.c">  Program to  return a 4 digit random number.
 </li>
+<li><a href="quadratic.c">  Program  to calculate roots of the quadratic equation.
+</li>
