@@ -47,5 +47,25 @@
 <li><a href="armstrong.c"> Program to print Armstrong numbers in the user-given range. </li>
 <li><a href="armstronguser_given.c"> Program to return the number of Armstrong numbers up to the user-given range.</li>
 <li><a href="fibonaccirange.c"> Program to print Fibonacci series terms in the user-given range. </li>
-<li><a href="prime_nearest.c"> Program to return the nearest prime number of the user-given number. </li> 
- 
+<li><a href="Numberof_digits.c">  Program to return the number of digits in the user-given number. </li> 
+<li><a href="sumof_digits.c">  Program  to return the number of digits in the user-given number. </li> 
+ <li><a href="sumof_even.c"> Program to return the sum of the even digits of a user-given number. </li> 
+ <li><a href="sum_of_odd.c"> Program to return the sum of the odd digits of a user-given number. </li> 
+ <li><a href="reversenum.c"> Program to return the reverse of a user-given number. </li> 
+ <li><a href="palindrome_or_not.c">Program to check and return true if the number is a palindrome, else return false. </li>
+ <li><a href="checkprime_reverseprime.c">Program to check and return true if the given number is prime and the reverse of the given number is also a prime. </li>
+ <li><a href="palindrome_usergiven.c">Program to print all palindrome numbers from the user-given range. </li>
+ <li><a href="palindrome_prime.c">Program to print all palindrome-prime numbers from the user-given range. </li>
+ <li><a href="perfectsqureornot.c"> Program to check and return true if a user-given number is a perfect square root, else return false. </li>
+ <li><a href="poweroftwo.c"> Program to check and return true if a user-given number is the power of 2, else return false. </li>  
+ <li><a href="power_of_n.c"> Program to check and return true if a user-given number is the power of n, else return false. </li> 
+  <li><a href="sequential_digit.c"> Program to check and return true if the user-given number is a sequential digit number, else return false. </li>  
+  <li><a href="sequential_digit_usergiven.c"> Program to check and print all sequential digit numbers in a user-given range. </li>
+  <li><a href="1Darray.c"> Program to print elements from the user-given 1D array. </li> 
+  <li><a href="positive_array.c">  Program to find and return the sum of the positive numbers from the user-given1D array. </li> 
+  <li><a href="even_array.c"> Program to print even numbers from the user-given1D array. </li> 
+  <li><a href="odd_array.c"> Program to print odd numbers from the user-given1D array. </li> 
+    <li><a href="Rectangle_pattern.c"> Program to print Rectangle pattern. </li> 
+    <li><a href="Hollow_pattern.c"> Program to print Hollow pattern. </li> 
+    <li><a href="Leftangle_triangle.c"> Program to print Leftangle triangle. </li> 
+  <li><a href="Rightangle_triangle.c"> Program to print Right angle triangle. </li> 
