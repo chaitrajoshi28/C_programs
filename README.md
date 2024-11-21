@@ -69,3 +69,10 @@
     <li><a href="Hollow_pattern.c"> Program to print Hollow pattern. </li> 
     <li><a href="Leftangle_triangle.c"> Program to print Leftangle triangle. </li> 
   <li><a href="Rightangle_triangle.c"> Program to print Right angle triangle. </li> 
+  <li><a href="rhombus.c"> Program to print Rhombus pattern. </li> 
+ <li><a href="Letters.c"> Program to print Letters B, S, T, I, L, H, D, P, O, U, 7, 9,  pattern. </li> 
+ <li><a href="rhombus.c"> Program to print Rhombus pattern. </li> 
+  <li><a href="armstrongarray.c"> Program to print Armstrong numbers from the array. </li> 
+  <li><a href="palindrome_array.c"> Program to print palindrome numbers from the array. </li> 
+  <li><a href="smallest_prime.c"> Program to check and return the smallest prime number from the array. </li>
+  <li><a href="largest_prime.c"> Program to check and return the largest prime number from the array. </li>
