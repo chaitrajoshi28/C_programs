@@ -79,3 +79,4 @@
  <li><a href="smallest_largestarray.c">Program to check and return missing numbers in between the smallest and the largest elements from the array. (You can assume only one number is missing. If no number is missing then return 0) </li>
  <li><a href="sorted_array.c"> Program to print sorted array in ascending order. </li>
  <li><a href="descending_order.c"> Program to print sorted array in descending order. </li>
+  <li><a href="merge_sorted_array.c"> Program to return a sorted merged array of given two sorted arrays. </li> 
