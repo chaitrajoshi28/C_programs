@@ -80,3 +80,4 @@
  <li><a href="sorted_array.c"> Program to print sorted array in ascending order. </li>
  <li><a href="descending_order.c"> Program to print sorted array in descending order. </li>
   <li><a href="merge_sorted_array.c"> Program to return a sorted merged array of given two sorted arrays. </li> 
+  <li><a href="merge_unsorted_array.c"> Program to return a sorted merged array of given two unsorted arrays. </li> 
