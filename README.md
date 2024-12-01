@@ -82,3 +82,4 @@
   <li><a href="merge_sorted_array.c"> Program to return a sorted merged array of given two sorted arrays. </li> 
   <li><a href="merge_unsorted_array.c"> Program to return a sorted merged array of given two unsorted arrays. </li> 
 <li><a href="max_array.c">  program to find maximum element from the array. </li>
+<li><a href="min_array.c">  program to find minimum element from the array. </li>
